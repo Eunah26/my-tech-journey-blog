@@ -20,6 +20,8 @@ I built this blog not only to share my story, but also to put into practice what
 - HTML
 - CSS
 - JavaScript
+### 🔗 Live Demo
+[View the blog here](https://eunah26.github.io/my-tech-journey-blog/)
 
 ## 🎓 Built With
 Skills learned in my **Web Design & Development** module during my BSc (Hons) in Computer Science & Networking Security.
